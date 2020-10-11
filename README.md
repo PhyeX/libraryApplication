@@ -35,7 +35,6 @@
   
   
   ### Ne Nerde Neden?
-  - <b>H2 Database</b>:H2 database'ni seçmemin sebebi farklı bir bilgisiyarda kodu çalıştırmaya çalıştığınızda bir database konfigürasyonu yapmanıza gerek kalmadan direk kodu 
-  - çalıştırılabilmesi içindir.
+  - <b>H2 Database</b>:H2 database'ni seçmemin sebebi farklı bir bilgisiyarda kodu çalıştırmaya çalıştığımızda bir database konfigürasyonu yapmamamıza gerek kalmadan direk kodu        çalıştırabilmemiz için tercich ettim.
   - <b>Lombok</b>: Lombok aslında yaygın olarak kullanılan bir kütüphane, lombok bize encapsulation,loglama vs gibi pek çok kısımda yardımcı olduğu için tercih ettim.
   - <b>Mapstruct</b>: Mapstruct' da bildiğim kadarıyla yaygın kullanılan bir kütüphane DTO objelerinin işlemlerinde kolaylık sağlıyabilmesi amacıyla tercih ettim.
