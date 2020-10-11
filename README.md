@@ -1,4 +1,4 @@
-  #Basic Library Application(Basit Kütüphane Uygulaması)
+ #Basic Library Application(Basit Kütüphane Uygulaması)
 
 
   Uygulama'yı IntelliJ IDE'sını kullanarak geliştirdim.O yüzden IntelliJ üzerinden nasıl import edilip çalıştırılacağını kısaca anlatacağım.
@@ -35,6 +35,7 @@
   
   
   ### Ne Nerde Neden?
-  H2 Database:H2 database'ni seçmemin sebebi farklı bir bilgisiyarda kodu çalıştırmaya çalıştığınızda bir database konfigürasyonu yapmanıza gerek kalmadan direk kodu çalıştırılabilmesi içindir.
-  Lombok: Lombok aslında yaygın olarak kullanılan bir kütüphane, lombok bize encapsulation,loglama vs gibi pek çok kısımda yardımcı olduğu için tercih ettim.
-  Mapstruct: Mapstruct' da bildiğim kadarıyla yaygın kullanılan bir kütüphane DTO objelerinin işlemlerinde kolaylık sağlıyabilmesi amacıyla tercih ettim.
+  - H2 Database:H2 database'ni seçmemin sebebi farklı bir bilgisiyarda kodu çalıştırmaya çalıştığınızda bir database konfigürasyonu yapmanıza gerek kalmadan direk kodu 
+  - çalıştırılabilmesi içindir.
+  - Lombok: Lombok aslında yaygın olarak kullanılan bir kütüphane, lombok bize encapsulation,loglama vs gibi pek çok kısımda yardımcı olduğu için tercih ettim.
+  - Mapstruct: Mapstruct' da bildiğim kadarıyla yaygın kullanılan bir kütüphane DTO objelerinin işlemlerinde kolaylık sağlıyabilmesi amacıyla tercih ettim.
