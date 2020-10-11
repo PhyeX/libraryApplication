@@ -1,4 +1,4 @@
- #Basic Library Application(Basit Kütüphane Uygulaması)
+ # Basic Library Application(Basit Kütüphane Uygulaması)
 
 
   Uygulama'yı IntelliJ IDE'sını kullanarak geliştirdim.O yüzden IntelliJ üzerinden nasıl import edilip çalıştırılacağını kısaca anlatacağım.
