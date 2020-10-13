@@ -1,6 +1,7 @@
   # Basic Library Application(Basit Kütüphane Uygulaması)
   # Uygulamayı Kurma
   Projeyi çalıştırabilmek için maven komutları kullanılacaktır bu yüzden öncelikle bilgisiyarınızda maven bulunuyor mu? Buna bir göz atalım.
+  
   Bilgisayarınzda maven bulunup bulunmadığını anlamak için bilgisayarın konsol uygulamasını açıp 'mvn -version' yazınız.
   ![version](https://user-images.githubusercontent.com/45934056/95883170-49810080-0d83-11eb-9fca-c8ee74ae6cc3.png)
   
