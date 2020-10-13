@@ -113,7 +113,7 @@ public class BookContollor {
 
     @PostMapping("/update")
     public String update(@Valid BooksDto booksDto, BindingResult result, Model model){ ;
-        log.info(booksDto.toString());
+       //  log.info(booksDto.toString());
       //  BooksDto book = bookService.findById(booksDto.getBookId().toString());
         Book book = bookRepository.findById(Long.valueOf(booksDto.getBookId()))
                 .orElseThrow(() -> new IllegalArgumentException("Invalid student Id:" + booksDto.getBookId()));
