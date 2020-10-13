@@ -10,7 +10,7 @@
   https://mkyong.com/maven/how-to-install-maven-in-windows/ linki üzerinden bilgisiyarınıza maven kurunuz.
   
   Mavenı başarıyla kurduktan sonra Github üzerinden projeyi indiriniz.
-  Projeyi indirdikten sonra bilgiyar konsolunuz üzerinden projenin bulunduğu kısıma geçiniz.
+  Projeyi indirdikten sonra bilgiyar konsolunuz üzerinden projenin bulunduğu dizine geçiniz.
   
   Projenin bulunduğu dizine geçtikten sonra konsol kısmına 'maven install' yazınız.
   
