@@ -20,7 +20,11 @@
   
   ![target](https://user-images.githubusercontent.com/45934056/95890164-15f6a400-0d8c-11eb-84bb-1b0a1566868c.png)
   
-  Target dizinine geçtikden sonra aşağıda görseldeki gibi oluşan jar dosyasını 'java -jar <jarName>' komutu ile çalıştırınız.Jar dosyamızıda başarıyla çalıştıkdan sonra   uygulamaya 'localhost:8080' adresinden ulaşabilirsiniz.
+  Target dizinine geçtikden sonra aşağıda görseldeki gibi oluşan jar dosyasını 'java -jar <jarName>' komutu ile çalıştırınız.
+  
+  ![runJar](https://user-images.githubusercontent.com/45934056/95891881-5a833f00-0d8e-11eb-8ee3-7a120b04d8b8.png)
+  
+  Jar dosyamızıda başarıyla çalıştıkdan sonra   uygulamaya 'localhost:8080' adresinden ulaşabilirsiniz.
 
 
   # Uygulamayı IntelliJ'ye import etme:
