@@ -41,7 +41,7 @@ public class AuthorContoller {
     }
     @PostMapping("/update/author")
     public String update(@Valid Author author, BindingResult result, Model model){ ;
-        log.info(author.toString());
+        //log.info(author.toString());
         //  BooksDto author = bookService.findById(author.getBookId().toString());
         Author newAuthor = authorService.findById(Long.valueOf(author.getAuthorId()));
 
