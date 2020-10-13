@@ -16,7 +16,7 @@
   Proje başarıyla build edildikten sonra 'target' adlı yeni bir dizin oluşucaktır bu dizine geçiniz.
   ![target](https://user-images.githubusercontent.com/45934056/95890164-15f6a400-0d8c-11eb-84bb-1b0a1566868c.png)
   
-  Target dizinine geçtikden sonra aşağıda görseldeki gibi oluşan jar dosyasını 'java -jar <jarName>' komutu ile çalıştırınız.Jar dosyamızıda başarıyla çalıştıkdan sonra   uygulamaya localhost:8080 adresinden ulaşabilirsiniz.
+  Target dizinine geçtikden sonra aşağıda görseldeki gibi oluşan jar dosyasını 'java -jar <jarName>' komutu ile çalıştırınız.Jar dosyamızıda başarıyla çalıştıkdan sonra   uygulamaya 'localhost:8080' adresinden ulaşabilirsiniz.
 
 
   # Uygulamayı IntelliJ'ye import etme:
