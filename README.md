@@ -1,7 +1,26 @@
- # Basic Library Application(Basit Kütüphane Uygulaması)
+  # Basic Library Application(Basit Kütüphane Uygulaması)
+  # Uygulamayı Kurma
+  Projeyi çalıştırabilmek için maven komutları kullanılacaktır bu yüzden öncelikle bilgisiyarınızda maven bulunuyor mu? Buna bir göz atalım.
+  Bilgisayarınzda maven bulunup bulunmadığını anlamak için bilgisayarın konsol uygulamasını açıp 'mvn -version' yazınız.
+  ![version](https://user-images.githubusercontent.com/45934056/95883170-49810080-0d83-11eb-9fca-c8ee74ae6cc3.png)
+  Eğer üsteki görsele benzer bir görsel ile karşılaşmıyor yada hata yaşıyorsanız 
+  https://mkyong.com/maven/how-to-install-maven-in-windows/ linki üzerinden bilgisiyarınıza maven kurunuz.
+  Mavenı başarıyla kurduktan sonra Github üzerinden projeyi indiriniz.
+  Projeyi indirdikten sonra bilgiyar konsolunuz üzerinden projenin bulunduğu kısıma geçiniz.
+  ![cdDirectory](https://user-images.githubusercontent.com/45934056/95885405-e2b11680-0d85-11eb-8ab0-19d0ccc87d94.png)
+  Projenin bulunduğu dizine geçtikten sonra konsol kısmına 'maven install' yazınız.
+  ![mvn install](https://user-images.githubusercontent.com/45934056/95889422-0cb90780-0d8b-11eb-8694-f046d99f8063.png)
+  Proje başarıyla build edildikten sonra 'target' adlı yeni bir dizin oluşucaktır bu dizine geçiniz.
+  ![target](https://user-images.githubusercontent.com/45934056/95890164-15f6a400-0d8c-11eb-84bb-1b0a1566868c.png)
+  Target dizinine geçtikden sonra aşağıda görseldeki gibi oluşan jar dosyasını 'java -jar <jarName>' komutu ile çalıştırınız.Jar dosyamızıda başarıyla çalıştıkdan sonra     
+  uygulamaya localhost:8080 adresinden ulaşabilirsiniz.
 
 
-  Uygulamayı IntelliJ IDE'sini kullanarak geliştirdim. O yüzden IntelliJ üzerinden nasıl import edilip çalıştırılacağını kısaca anlatacağım.
+  
+  
+
+
+  # Uygulamayı IntelliJ'ye import etme:
   
   Github üzerinden projeyi zip olarak ya da clone olarak indirdikten sonra(Tercih sizin fakat zip olarak indirdikten sonra tabii ki bir dizin çıkartma işlemi daha gerekicektir.)
   IntelliJ uygulamasını açalım ve görselde de gördülüğü gibi 'Import Project' kısmına basalım.
