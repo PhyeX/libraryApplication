@@ -3,6 +3,7 @@
   Projeyi çalıştırabilmek için maven komutları kullanılacaktır bu yüzden öncelikle bilgisiyarınızda maven bulunuyor mu? Buna bir göz atalım.
   
   Bilgisayarınzda maven bulunup bulunmadığını anlamak için bilgisayarın konsol uygulamasını açıp 'mvn -version' yazınız.
+  
   ![version](https://user-images.githubusercontent.com/45934056/95883170-49810080-0d83-11eb-9fca-c8ee74ae6cc3.png)
   
   Eğer üsteki görsele benzer bir görsel ile karşılaşmıyor yada hata yaşıyorsanız 
@@ -12,9 +13,11 @@
   Projeyi indirdikten sonra bilgiyar konsolunuz üzerinden projenin bulunduğu kısıma geçiniz.
   
   Projenin bulunduğu dizine geçtikten sonra konsol kısmına 'maven install' yazınız.
+  
  ![mvn install](https://user-images.githubusercontent.com/45934056/95891047-32dfa700-0d8d-11eb-90ea-504e8f45d14a.png)
 
   Proje başarıyla build edildikten sonra 'target' adlı yeni bir dizin oluşucaktır bu dizine geçiniz.
+  
   ![target](https://user-images.githubusercontent.com/45934056/95890164-15f6a400-0d8c-11eb-84bb-1b0a1566868c.png)
   
   Target dizinine geçtikden sonra aşağıda görseldeki gibi oluşan jar dosyasını 'java -jar <jarName>' komutu ile çalıştırınız.Jar dosyamızıda başarıyla çalıştıkdan sonra   uygulamaya 'localhost:8080' adresinden ulaşabilirsiniz.
