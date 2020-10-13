@@ -7,8 +7,10 @@
   
   Eğer üsteki görsele benzer bir görsel ile karşılaşmıyor yada hata yaşıyorsanız 
   https://mkyong.com/maven/how-to-install-maven-in-windows/ linki üzerinden bilgisiyarınıza maven kurunuz.
-  Mavenı başarıyla kurduktan sonra Github üzerinden projeyi indiriniz.sadASDA
+  
+  Mavenı başarıyla kurduktan sonra Github üzerinden projeyi indiriniz.
   Projeyi indirdikten sonra bilgiyar konsolunuz üzerinden projenin bulunduğu kısıma geçiniz.
+  
   Projenin bulunduğu dizine geçtikten sonra konsol kısmına 'maven install' yazınız.
  ![mvn install](https://user-images.githubusercontent.com/45934056/95891047-32dfa700-0d8d-11eb-90ea-504e8f45d14a.png)
 
